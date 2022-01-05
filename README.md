@@ -3,3 +3,4 @@
 
 installed libraries sympy and Pyside6
 
+
